@@ -10,7 +10,7 @@
 
   
 
-  #### API CEP
+  ### API CEP
 
   Inicializar com `python api_cep.py`
 
@@ -30,7 +30,7 @@
 
 
 
-#### API Frase Aleatória
+### API Frase Aleatória
 
 Inicializar com `python api_cep.py`
 
