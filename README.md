@@ -26,7 +26,7 @@
   *Localidade: São Paulo*
   *DDD: 11*
 
-  https://i.imgur.com/jxOQR9z.png
+![api](https://i.imgur.com/B7ToXLP.png)
 
 
 
@@ -38,4 +38,4 @@ Inicializar com `python api_cep.py`
 
 *Ao inserir as informações você deve receber algo do tipo:*
 
-!https://i.imgur.com/jxOQR9z.png
+![apiPergunta](https://i.imgur.com/jxOQR9z.png)
