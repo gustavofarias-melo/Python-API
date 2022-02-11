@@ -26,7 +26,7 @@
   *Localidade: São Paulo*
   *DDD: 11*
 
-  ![api](C:\Users\Gustavo\Pictures\api.png)
+  https://i.imgur.com/jxOQR9z.png
 
 
 
@@ -38,4 +38,4 @@ Inicializar com `python api_cep.py`
 
 *Ao inserir as informações você deve receber algo do tipo:*
 
-![apiFrase](C:\Users\Gustavo\Pictures\apiFrase.png)
+!https://i.imgur.com/jxOQR9z.png
